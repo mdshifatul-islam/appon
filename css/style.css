@@ -11,6 +11,9 @@ a{
 ol, ul{
     list-style: none
 }
+body{
+    scroll-behavior: smooth;
+}
 .full_header{
     position: absolute;
     background-color: transparent;
